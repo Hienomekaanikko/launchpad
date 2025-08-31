@@ -30,8 +30,10 @@ Prototype looks like this:
 
 Hovering on a button looks like this:
 
-<img width="742" height="692" alt="Screenshot 2025-08-31 at 13 34 30" src="https://github.com/user-attachments/assets/644ea772-2972-493b-b1bf-4b5c78b52a8f" />
+<img width="742" height="692" alt="Screenshot 2025-08-31 at 13 34 30" src="https://github.com/user-attachments/assets/fe2ef1e8-3de4-4cf5-b4f8-efa2786faaff" />
 
 When a sound is queuing for playing, it blinks until it starts playing. Then it has this white shimmering behind it.
+
+Lets see how it turns out.
 
 
