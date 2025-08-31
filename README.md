@@ -26,11 +26,9 @@ As the grid is 5x5, there must be a theme in the music. So perhaps additional "s
 
 Prototype looks like this:
 
-<img width="868" height="791" alt="Screenshot 2025-08-31 at 13 33 53" src="https://github.com/user-attachments/assets/0157b13d-953d-4b72-89cb-78de8cc1b162" />
+<img width="844" height="755" alt="Screenshot 2025-08-31 at 13 50 41" src="https://github.com/user-attachments/assets/d96d49d8-8feb-4fc4-8e1a-60bb7232a2b5" />
 
-Hovering on a button looks like this:
-
-<img width="742" height="692" alt="Screenshot 2025-08-31 at 13 34 30" src="https://github.com/user-attachments/assets/fe2ef1e8-3de4-4cf5-b4f8-efa2786faaff" />
+<img width="775" height="766" alt="Screenshot 2025-08-31 at 13 49 52" src="https://github.com/user-attachments/assets/003a1a6a-7eb4-4cfb-a4a0-c9841bae8781" />
 
 When a sound is queuing for playing, it blinks until it starts playing. Then it has this white shimmering behind it.
 
